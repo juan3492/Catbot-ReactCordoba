@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Catbot-ReactCordoba/static/css/main.2009a38e.chunk.css",
+    "main.js": "/Catbot-ReactCordoba/static/js/main.96af47e3.chunk.js",
+    "main.js.map": "/Catbot-ReactCordoba/static/js/main.96af47e3.chunk.js.map",
+    "runtime-main.js": "/Catbot-ReactCordoba/static/js/runtime-main.be03e275.js",
+    "runtime-main.js.map": "/Catbot-ReactCordoba/static/js/runtime-main.be03e275.js.map",
+    "static/js/2.fbcaeb9a.chunk.js": "/Catbot-ReactCordoba/static/js/2.fbcaeb9a.chunk.js",
+    "static/js/2.fbcaeb9a.chunk.js.map": "/Catbot-ReactCordoba/static/js/2.fbcaeb9a.chunk.js.map",
+    "index.html": "/Catbot-ReactCordoba/index.html",
+    "precache-manifest.e7d1964fa12b5b660cd2082389524598.js": "/Catbot-ReactCordoba/precache-manifest.e7d1964fa12b5b660cd2082389524598.js",
+    "service-worker.js": "/Catbot-ReactCordoba/service-worker.js",
+    "static/css/main.2009a38e.chunk.css.map": "/Catbot-ReactCordoba/static/css/main.2009a38e.chunk.css.map",
+    "static/js/2.fbcaeb9a.chunk.js.LICENSE.txt": "/Catbot-ReactCordoba/static/js/2.fbcaeb9a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Catbot-ReactCordoba/static/media/Quicksand-VariableFont_wght.f9baef8a.ttf",
+    "static/media/userAvatar.png": "/Catbot-ReactCordoba/static/media/userAvatar.3ea05818.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be03e275.js",
+    "static/js/2.fbcaeb9a.chunk.js",
+    "static/css/main.2009a38e.chunk.css",
+    "static/js/main.96af47e3.chunk.js"
+  ]
+}
